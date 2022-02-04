@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-first-robohash-app/static/css/main.37c648e1.css",
+    "main.js": "/react-first-robohash-app/static/js/main.d1ef4715.js",
+    "static/js/787.88b75bc3.chunk.js": "/react-first-robohash-app/static/js/787.88b75bc3.chunk.js",
+    "static/media/logo.svg": "/react-first-robohash-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-first-robohash-app/index.html",
+    "main.37c648e1.css.map": "/react-first-robohash-app/static/css/main.37c648e1.css.map",
+    "main.d1ef4715.js.map": "/react-first-robohash-app/static/js/main.d1ef4715.js.map",
+    "787.88b75bc3.chunk.js.map": "/react-first-robohash-app/static/js/787.88b75bc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37c648e1.css",
+    "static/js/main.d1ef4715.js"
+  ]
+}
